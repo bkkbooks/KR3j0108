@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0108/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十
+  hash: sha256:6558828ce7672044657017b2bb9c6172233a999f18551baa91b8fd0e67ea1b4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0108_WYG_000-1a, image: WYG0863/WYG0863-0747a.png}
+body:
+  text: 却掃編雜家類三雜說之屬提要臣等謹案却掃編三卷宋徐度撰度字敦立穀熟人父處仁靖康時宰相書中稱先公者皆處仁也度南渡後官至吏部侍郎此編所紀皆國家典章前賢故事言頗詳核說部中之有禆史學者陸遊渭南集有是書跋曰此書之作敦立猶少年故大抵無紹興以後事蓋其書成于髙宗初年也王明清揮麈後録載明清訪度于霅川度與考定創置右府與揆路議政分合因革筆于是書又載其論哲宗實録及論秦檜刋削建炎航海以後日厯起居注時政記諸書二事則度之究心史學可以槩見至謂新唐書所載事倍于舊書皆取小說因欲史官博采異聞則未免失之泛濫此書上卷載葉夢得所記俚語一條中卷載王鼎嘲謔一條下卷載翟㢲詼諧一條為例不純自穢其書是亦嗜博之一證矣然大致纂述舊聞足資掌故與揮麈諸録石林燕語可以鼎立而文簡于王事核于葉則似較二家為勝焉乾隆四十三年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:67ab36936a8829944fcdb55bcd4d38ff9abfeac05ea4243fda6cb52ef33fce38
+metadata:
+  title: 却掃編
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:23:30.800415'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3j0108/KR3j0108_000.txt
+hash: sha256:4ea635cb66ec59e3cab5d8501d6a0ddf4ed419bfa968eed49b8aaed4f9e6cd89
